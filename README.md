@@ -1,2 +1,2 @@
 # hello-world
-starter
+print hello world
